@@ -72,7 +72,7 @@ export default class ProfileRenderer {
 
 
      data.address = minerAddress;
-     data.etherscanURL = 'https://etherscan.io/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31?a=' + minerAddress.toString();
+     data.etherscanURL = 'https://etherscan.io/token/0x0f00f1696218eaefa2d2330df3d6d1f94813b38f?a=' + minerAddress.toString();
 
       data.tokensAwardedFormatted = self.formatTokenQuantity(data.tokensAwarded);
       data.sedoTokensAwardedFormatted = self.formatTokenQuantity(data.sedoTokensAwarded);

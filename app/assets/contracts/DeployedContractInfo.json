@@ -3,7 +3,7 @@
   "networks": {
       "mainnet": {
               "contracts": {
-                "_0xbitcointoken": {"name":"0xBitcoinToken", "blockchain_address":"0xb6ed7644c69416d67b522e20bc294a9a9b405b31"}
+                "_0xbitcointoken": {"name":"0xBitcoinToken", "blockchain_address":"0x0f00f1696218eaefa2d2330df3d6d1f94813b38f"}
               }
             },
       "staging": {
